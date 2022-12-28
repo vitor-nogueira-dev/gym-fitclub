@@ -1,10 +1,10 @@
 
 ## Projeto Gym FitClub 🏋🏼
-````
+----
 📝Proposta: Criar um incrível #site responsivo de academia. A aplicação foi feita em #react combinada com #css moderno e JavaScript. Para deixar o site mais funcional e prático, foi utilizado a biblioteca E-mail #js, onde o usuário consegue inserir seu e-mail para contato e o mesmo é enviado para a caixa de E-mail do responsável pelo site. Além dessa, houve manipulação de outras bibliotecas em React, tais como React Framer motion e React scroll.
 
 💡Foi bem desafiador, pois não tinha conhecimento das bibliotecas citadas acima e foi o projeto mais extenso que pratiquei até o momento. No entanto, estou bem feliz com o resultado.
-````
+
 ----
 #### Navegue aqui 🏋🏼 [Fitclub]() ✅
 ----
